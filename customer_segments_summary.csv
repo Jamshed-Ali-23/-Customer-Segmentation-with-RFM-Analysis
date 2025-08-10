@@ -1,0 +1,8 @@
+Customer_Segment,Customer_Count,Avg_Recency,Min_Recency,Max_Recency,Avg_Frequency,Min_Frequency,Max_Frequency,Avg_Monetary,Min_Monetary,Max_Monetary
+At Risk,659,164.78,73,374,71.62,29,543,1157.89,67.23,11072.67
+Champions,932,13.07,1,33,258.87,59,7847,6089.14,942.34,280206.02
+Lost Customers,863,36.81,1,72,52.87,1,258,483.17,6.2,942.26
+Loyal Customers,398,42.5,1,72,107.75,29,660,2618.53,945.58,81024.84
+Need Attention,1049,211.39,73,374,13.39,1,29,530.88,3.75,77183.6
+New Customers,262,17.64,1,33,13.71,1,29,249.44,20.8,486.72
+Potential Loyalists,175,32.01,1,72,18.72,1,29,2239.36,490.22,168472.5
